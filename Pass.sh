@@ -22,4 +22,4 @@ fi;
 }
 MatchPass
 # echo "$Passwd"    # This is for debug purposes
-        #There is now a variable named "$Passwd" and "$usrname" that can be used for setup
+        #There is now a variable named "$Passwd" and "$username" that can be used for setup
